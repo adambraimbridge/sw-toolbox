@@ -1,13 +1,12 @@
 {
   "name": "sw-toolbox",
-  "main": "sw-toolbox.js",
+  "main": "lib/sw-toolbox.js",
   "moduleType": [
-    "globals"
+    "commonjs"
   ],
   "license": "Apache-2.0",
   "ignore": [
     "**/.*",
-    "lib",
     "tests",
     "gulpfile.js"
   ]
